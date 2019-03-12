@@ -1,0 +1,73 @@
+@media(max-width:767px){
+  #main{
+    height:100%;
+    width:480px;
+  }
+  
+  /* #a,#b,#c,#d{
+    width:480px;
+    float:none;
+  } */
+
+  #a{
+    height:75px;
+    width:480px;
+    float:none;
+    background-color:gray;
+  }
+
+  #b{
+    height:150px;
+    width:480px;
+    float:none;
+    background-color:orange;
+  }
+
+
+  #c{
+    height:125px;
+    width:480px;
+    float:none;
+    background-color:coral;
+  }
+
+  #d{
+    height:125px;
+    width:480px;
+    float:none;
+    background-color:purple;
+  }
+
+  #e{
+    height:250px;
+    width:240px;
+    background-color:blue;
+  }
+
+  #f{
+    height:250px;
+    width:240px;
+    background-color:red;
+
+  }
+
+  #g{
+    height:250px;
+    width:240px;
+    float:none;
+    background-color:yellow;
+  }
+
+  #h{
+    height:250px;
+    width:240px;
+    background-color:yellow;
+  }
+  
+  #i{
+    height:80px;
+    width:240px;
+    background-color:teal;
+  } 
+  
+}
