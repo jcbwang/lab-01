@@ -1,14 +1,9 @@
 @media(max-width:767px){
-  #main{
-    height:100%;
+  main{
+    height:1055px;
     width:480px;
   }
   
-  /* #a,#b,#c,#d{
-    width:480px;
-    float:none;
-  } */
-
   #a{
     height:75px;
     width:480px;
@@ -47,26 +42,27 @@
   #f{
     height:250px;
     width:240px;
+    float:right;
     background-color:red;
-
   }
 
   #g{
     height:250px;
     width:240px;
-    float:none;
-    background-color:yellow;
+    background-color:green;
   }
 
   #h{
     height:250px;
     width:240px;
+    float:right;
     background-color:yellow;
+  
   }
   
   #i{
     height:80px;
-    width:240px;
+    width:100%;
     background-color:teal;
   } 
   
