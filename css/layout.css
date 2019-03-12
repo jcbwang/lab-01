@@ -1,0 +1,36 @@
+#a{
+  height:100px;
+  width: 960px;
+}
+
+#b{
+  height:600px;
+  width:200px;
+  float:left;
+}
+
+#c,#d{
+  height:200px;
+  width:380px;
+}
+
+
+#e,#f,#g,#h{
+  height:250px;
+  width:190px;
+  float:left;
+}
+
+#i{
+  height:150px;
+  width:760px;
+  float:left;
+}
+
+
+
+
+
+
+
+

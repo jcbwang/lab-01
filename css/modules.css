@@ -1,0 +1,37 @@
+#a{
+  background:blue;
+}
+
+#b{
+  background:red;
+}
+
+#c{
+  background: yellow;
+  float:left;
+}
+
+#d{
+  background:green;
+  float:left;
+}
+
+#e{
+  background:orange;
+}
+
+#f{
+  background:purple;
+}
+
+#g{
+  background: teal;
+}
+
+#h{
+  background: coral;
+}
+
+#i{
+  background: gray;
+}
